@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dustin Murdock",
 	"description": "General purpose application to learn NPM and node",
+	"keywords": ["freecodecamp", "Node", "npm", "learning"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
