@@ -3,6 +3,8 @@
 	"author": "Dustin Murdock",
 	"description": "General purpose application to learn NPM and node",
 	"keywords": ["freecodecamp", "Node", "npm", "learning"],
+	"version": "1.0.0",
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
